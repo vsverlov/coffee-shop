@@ -2,10 +2,14 @@
 Simple Coffee Shop
 
 ## Build
+```
 maven install
+```
 
-## Run
+## Run\
+```
 java -jar coffee-shop-1.0-SNAPSHOT.jar
+```
 
 ## Example
 ```
