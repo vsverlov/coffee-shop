@@ -1,15 +1,36 @@
 # coffee-shop
 Simple Coffee Shop
 
+## Requirements
+* Java 17
+* Maven 2
+
 ## Build
 ```
 maven install
 ```
 
-## Run\
+## Run
 ```
 java -jar coffee-shop-1.0-SNAPSHOT.jar
 ```
+## Usage
+````
+Offerings
+    small coffee
+    medium coffee
+    large coffee
+    bacon roll
+    orange juice
+
+Extras
+    extra milk
+    foamed milk
+    special roast
+    
+ > medium coffee with special roast and extra milk, orange juice
+````
+
 
 ## Example
 ```
